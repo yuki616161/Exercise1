@@ -32,5 +32,4 @@ class PrintThread implements Runnable {
         }
         System.out.printf("Thread %d : %s%n", threadNumber, message);
     }
-
 }
